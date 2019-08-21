@@ -41,7 +41,7 @@ Office hours: M W F immediately following class
 ### TA's
 
 Adam Szewciw  
-adam.szewciw@vanderbilt.edu  
+adam.o.szewciw@vanderbilt.edu  
 Office hours: M W 11-12, DSI Common Area
 
 Rebecca Irlmeier  

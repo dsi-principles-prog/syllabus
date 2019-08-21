@@ -31,9 +31,9 @@ Class Slack: https://vandydatasciencems.slack.com/messages/CLZ6NDVRT
 
 ### Instructor
 
-Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute
-
-https://vandydatasciencems.slack.com/messages/DKWG5FLE5
+Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute |
+----------------------------------------------------------------------------
+https://vandydatasciencems.slack.com/messages/DKWG5FLE5 |
 
 
 ### TA's

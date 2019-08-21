@@ -45,7 +45,7 @@ adam.o.szewciw@vanderbilt.edu
 Office hours: M W 11-12, DSI Common Area
 
 Rebecca Irlmeier  
-rebecca.irlmeier@vanderbilt.edu  
+rebecca.t.irlmeier@vanderbilt.edu  
 Office hours: T Th 9-10, DSI Common Area
 
 

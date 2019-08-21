@@ -25,6 +25,8 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 - 30% midterm project
 - 30% final project
 
+You will have the opportunity to drop two homeworks/short assignments. To receive credit, assignments must be turned by the deadline. Sections of assignments will be selected at random for grading. 
+
 ## Contact Information
 
 Class Slack: https://vandydatasciencems.slack.com/messages/CLZ6NDVRT

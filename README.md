@@ -31,16 +31,20 @@ Class Slack: https://vandydatasciencems.slack.com/messages/CLZ6NDVRT
 
 ### Instructor
 
-Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute |
-----------------------------------------------------------------------------
-https://vandydatasciencems.slack.com/messages/DKWG5FLE5 |
+Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute  
+https://vandydatasciencems.slack.com/messages/DKWG5FLE5  
+Office hours: M W F immediately following class
 
 
 ### TA's
 
-Adam Szewciw
+Adam Szewciw  
+adam.szewciw@vanderbilt.edu  
+Office hours: M W 11-12, DSI Common Area
 
-Rebecca Irlmeier
+Rebecca Irlmeier  
+rebecca.irlmeier@vanderbilt.edu  
+Office hours: T Th 9-10, DSI Common Area
 
 
 

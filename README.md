@@ -1,6 +1,6 @@
 # DS5220 Principles of Programming Course Outline
 
-Course page for DSI Programming Concepts course
+Course page for DSI Principles of Programming course
 
 
 

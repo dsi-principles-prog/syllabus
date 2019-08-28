@@ -59,14 +59,13 @@ Office hours: T Th 9-10, DSI Common Area
 - Structuring projects
 
 ### Week 2
-- Grammar of data manipulation 
-- Tidy data
-- Wrangling data
-- Pipeline tests
+- Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
+- Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
+- Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
 ### Week 3 
-- Relational data
-- Functions
+- Relational data (https://r4ds.had.co.nz/relational-data.html)
+- Functions (https://r4ds.had.co.nz/functions.html)
 
 ### Week 4
 - Building functions in tidyverse 

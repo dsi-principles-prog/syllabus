@@ -65,7 +65,7 @@ Office hours: T Th 9-10, DSI Common Area
 - Pipeline tests
 
 ### Week 3 
-- ggplot2 introduction
+- Relational data
 - Functions
 
 ### Week 4

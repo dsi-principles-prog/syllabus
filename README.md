@@ -100,7 +100,7 @@ Office hours: T Th 9-10, DSI Common Area
 - Errors and exceptions
 - Iterators
 
-### Week 10
+### Week 10 (Fall Break Thursday-Friday)
 - List comprehensions
 - Generators
 - Modules and packages

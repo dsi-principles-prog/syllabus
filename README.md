@@ -68,10 +68,11 @@ Office hours: T Th 9-10, DSI Common Area
 - Functions (https://r4ds.had.co.nz/functions.html)
 
 ### Week 4
-- Building functions in tidyverse 
-- Functional programming
+- Vectors (https://r4ds.had.co.nz/vectors.html)
+- Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
 ### Week 5
+- Writing functions in the tidyverse 
 - Simple predictive models
 - Feature engineering
 - Testing
@@ -138,3 +139,4 @@ Office hours: T Th 9-10, DSI Common Area
 ### Week 16
 - Final project
 
+move 

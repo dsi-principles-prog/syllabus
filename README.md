@@ -72,6 +72,7 @@ Office hours: T Th 9-10, DSI Common Area
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
 ### Week 5
+- Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 - Writing functions in the tidyverse 
 - Simple predictive models
 - Feature engineering

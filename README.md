@@ -73,15 +73,14 @@ Office hours: T Th 9-10, DSI Common Area
 
 ### Week 5
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
-- Writing functions in the tidyverse 
-- Simple predictive models
-- Feature engineering
-- Testing
+- Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ### Week 6
+- Writing functions in the tidyverse 
+- Feature engineering
+- Testing
 - Notebook vs scripts
 - Clean code
-- Reproducible project
 
 ### Week 7
 - Bash

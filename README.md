@@ -85,9 +85,8 @@ Office hours: T Th 9-10, DSI Common Area
 - Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
 ### Week 8 (Oct 7-11) 
-- Feature engineering (https://dplyr.tidyverse.org/reference/mutate_all.html)
+- Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
-- Writing functions for feature engineering (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/)
 - ACCRE Slurm
 - Remote computing
 

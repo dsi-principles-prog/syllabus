@@ -53,90 +53,86 @@ Office hours: T Th 9-10, DSI Common Area
 
 ## Course Outline
 
-### Week 1
+### Week 1 (Aug 21-23)
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Week 2
+### Week 2 (Aug 26-30)
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
-### Week 3 
+### Week 3 (Sep 2-6)
 - Relational data (https://r4ds.had.co.nz/relational-data.html)
 - Functions (https://r4ds.had.co.nz/functions.html)
 
-### Week 4
+### Week 4 (Sep 9-13)
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
-### Week 5
+### Week 5 (Sep 16-20)
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
-### Week 6
-- Writing functions in the tidyverse 
-- Feature engineering
-- Testing
-- Notebook vs scripts
-- Clean code
+### Week 6 (Sep 23-27)
+- Datetime
+- Strings
+- Regular expressions
 
-### Week 7
-- Bash
+### Week 7 (Sep 30-Oct 4)
+- Regular expressions
+- Writing functions in the tidyverse 
+
+### Week 8 (Oct 7-11) 
+- Feature engineering 
+- Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
+- Writing functions for feature engineering
+- ACCRE Slurm
 - Remote computing
 
-### Week 8
+
+### Week 9 (Oct 14-18)
 - Thinking Pythonically
 - Jupyter notebooks
 - Basic syntax
 - Variables
 - Operators
 - Types
-- Data structures
 
-### Week 9
+### Week 10 (Oct 21-25, Fall Break Oct 24-25)
+- Data structures
 - Flow statements
 - Functions
 - Errors and exceptions
 - Iterators
 
-### Week 10 (Fall Break Thursday-Friday)
+### Week 11 (Oct 28-Nov 1)
 - List comprehensions
 - Generators
-- Modules and packages
 - Strings and regular expressions
-
-### Week 11
 - NumPy intro
 - Using arrays
 - Indexing
 - Intro to Pandas
 
-### Week 12
+### Week 12 (Nov 4-8)
 - Data indexing
 - Operations in Pandas
 - Missing values
 
-### Week 13
+### Week 13 (Nov 11-15)
 - Hierarchical indexing
 - Concatenating
+
+### Week 14 (Nov 18-22)
 - Joins
 - Grouping
 - Pivoting
 
-### Week 14
-- Working with time series
+### Week 15 (Dec 2-4)
+- Object-oriented Python
+- Modules and packages
 
-### Week 15
-- Matplotlib
-- Simple plots
-- Scatter plots
-- Density/contours
-- Customizing
-- Feature engineering
-
-### Week 16
+### Week 16 (No classes, final project)
 - Final project
-
-move 

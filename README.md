@@ -120,7 +120,7 @@ Office hours: T Th 9-10, DSI Common Area
 - Operations in Pandas
 - Missing values
 
-### Week 13 (Nov 11-15)
+### Week 13 (Nov 13-15)
 - Hierarchical indexing
 - Concatenating
 
@@ -129,7 +129,7 @@ Office hours: T Th 9-10, DSI Common Area
 - Grouping
 - Pivoting
 
-### Week 15 (Dec 2-4)
+### Week 15 (Dec 2-6)
 - Object-oriented Python
 - Modules and packages
 

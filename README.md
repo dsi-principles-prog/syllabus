@@ -87,51 +87,53 @@ Office hours: T Th 9-10, DSI Common Area
 ### Week 8 (Oct 7-11) 
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
-- ACCRE Slurm
+- ACCRE Slurm ([Unix](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2017/10/26205557/NewIntroToUnix.pdf), [Introduction to the Cluster](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2018/12/13173622/intro_to_cluster_2018.pdf), [SLURM Job Scheduler](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2019/03/28204601/intro_to_slurm.pdf), [ACCRE GitHub Demo Repositories](https://github.com/accre))
 - Remote computing
 
 
 ### Week 9 (Oct 14-18)
-- Thinking Pythonically
-- Jupyter notebooks
-- Basic syntax
-- Variables
-- Operators
-- Types
+- Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
+- Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-fhki5vmr/notebooks/binder/Index.ipynb) )
+- [Basic syntax](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/02-Basic-Python-Syntax.ipynb) 
+- [Variables](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/03-Semantics-Variables.ipynb)
+- [Operators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/04-Semantics-Operators.ipynb)
+- [Built-in types](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/05-Built-in-Scalar-Types.ipynb)
 
 ### Week 10 (Oct 21-25, Fall Break Oct 24-25)
-- Data structures
-- Flow statements
-- Functions
-- Errors and exceptions
-- Iterators
+- [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
+- [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
+- [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
+- [Functions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb)
+- [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
+- [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
 ### Week 11 (Oct 28-Nov 1)
-- List comprehensions
-- Generators
-- Strings and regular expressions
-- NumPy intro
-- Using arrays
-- Indexing
-- Intro to Pandas
+- [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
+- [Generators](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
+- [Strings and regular expressions](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/14-Strings-and-Regular-Expressions.ipynb)
+- [NumPy intro](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb) and [NumPy data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
+- Using arrays: [universal functions](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb), [aggregation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb), [broadcasting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+- Indexing: [boolean indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb), [array slicing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
+- Intro to Pandas: [motivation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb) and [overview](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
 ### Week 12 (Nov 4-8)
-- Data indexing
-- Operations in Pandas
-- Missing values
+- [Pandas data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+- [Data indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
+- [Operations in Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
+- [Missing values](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
 
 ### Week 13 (Nov 13-15)
-- Hierarchical indexing
-- Concatenating
+- [Joins](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
+- [Concatenating](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
+- [Grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
 
 ### Week 14 (Nov 18-22)
-- Joins
-- Grouping
-- Pivoting
+- [Hierarchical indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
+- [Pivoting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
 
 ### Week 15 (Dec 2-6)
 - Object-oriented Python
-- Modules and packages
+- [Modules and packages](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/13-Modules-and-Packages.ipynb)
 
 ### Week 16 (No classes, final project)
 - Final project

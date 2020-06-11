@@ -53,38 +53,38 @@ Office hours: T Th 9-10, DSI Common Area
 
 ## Course Outline
 
-### Week 1 (Aug 21-23)
+### Module 1
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Week 2 (Aug 26-30)
+### Module 2
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
-### Week 3 (Sep 2-6)
+### Module 3
 - Relational data (https://r4ds.had.co.nz/relational-data.html)
 - Functions (https://r4ds.had.co.nz/functions.html)
 
-### Week 4 (Sep 9-13)
+### Module 4
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
-### Week 5 (Sep 16-20)
+### Module 5
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
-### Week 6 (Sep 23-27)
+### Module 6
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)
 - Strings (https://r4ds.had.co.nz/strings.html)
 - Regular expressions (https://r4ds.had.co.nz/strings.html, https://github.com/VerbalExpressions/RVerbalExpressions)
 
-### Week 7 (Sep 30-Oct 4)
+### Module 7
 - Regular expressions (https://github.com/VerbalExpressions/RVerbalExpressions)
 - Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
-### Week 8 (Oct 7-11) 
+### Module 8
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
 - ACCRE Slurm ([Unix](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2017/10/26205557/NewIntroToUnix.pdf), [Introduction to the Cluster](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2018/12/13173622/intro_to_cluster_2018.pdf), [SLURM Job Scheduler](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2019/03/28204601/intro_to_slurm.pdf), [ACCRE GitHub Demo Repositories](https://github.com/accre))

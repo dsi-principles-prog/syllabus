@@ -37,6 +37,9 @@ Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute
 https://vandydatasciencems.slack.com/messages/DKWG5FLE5  
 Office hours: M W F immediately following class
 
+Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University. 
+Affiliated to Vanderbilt Data Science Institute.
+https://www.vanderbilt.edu/chemistry/faculty/yang.php
 
 ### TA's
 

@@ -73,7 +73,11 @@ https://vanderbilt.zoom.us/j/97810995272?pwd=YzVsa3o3WjRBejFtVzVNVGNPWHUydz09
 
 ### TA's
 
-**Yuzhi (Nino) Yao, Master student, Vanderbilt University.**
+**Yuzhi (Nino) Yao, M.S. Data Science Student, Vanderbilt University.**
+
+Office hours: TBD
+
+Contact via slack or email yuzhi.yao@vanderbilt.edu
 
 **Amanda Konet, M.S. Data Science Student** 
 

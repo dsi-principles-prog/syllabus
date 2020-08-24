@@ -57,14 +57,14 @@ Class Slack: https://vandydatasciencems.slack.com/messages/ds5220_f20
 
 ### Instructor
 
-Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University. 
+**Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University.**
 
 Affiliated to Vanderbilt Data Science Institute.
 
 https://www.vanderbilt.edu/chemistry/faculty/yang.php
 
 
-Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute  
+**Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute** 
 
 Office hours: M W F immediately following class
 
@@ -73,7 +73,13 @@ https://vanderbilt.zoom.us/j/97810995272?pwd=YzVsa3o3WjRBejFtVzVNVGNPWHUydz09
 
 ### TA's
 
-Yuzhi (Nino) Yao, Master student, Vanderbilt University.
+**Yuzhi (Nino) Yao, Master student, Vanderbilt University.**
+
+**Amanda Konet, M.S. Data Science Student** 
+
+Office hours: TBD
+
+Contact via slack or email amanda.konet@vanderbilt.edu
 
 
 ## Course Outline

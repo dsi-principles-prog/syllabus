@@ -81,6 +81,7 @@ Office hours: TBD
 
 Contact via slack or email amanda.konet@vanderbilt.edu
 
+**Yilin Yang, M.S. Data Science** 
 
 ## Course Outline
 

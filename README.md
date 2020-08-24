@@ -73,7 +73,7 @@ https://vanderbilt.zoom.us/j/97810995272?pwd=YzVsa3o3WjRBejFtVzVNVGNPWHUydz09
 
 ### TA's
 
-
+Yuzhi (Nino) Yao, Master student, Vanderbilt University.
 
 
 ## Course Outline

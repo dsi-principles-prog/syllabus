@@ -43,7 +43,7 @@ You will have the opportunity to drop two homeworks/short assignments. To receiv
 
 ## Contact Information
 
-Class Slack: 
+Class Slack: https://vandydatasciencems.slack.com/messages/ds5220_f20
 
 
 ### Instructor
@@ -54,7 +54,8 @@ https://www.vanderbilt.edu/chemistry/faculty/yang.php
 
 Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute  
 Office hours: M W F immediately following class
-Office hours/special sessions: 
+
+
 
 ### TA's
 

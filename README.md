@@ -6,16 +6,25 @@ Course page for DSI Principles of Programming course
 
 ### Live, in-person
 M W F 1:50-2:40pm CDT 
+
 Sony Building 2001A
+
 Meeting ID: 984 8685 4904
+
 Passcode: 892538
+
 https://vanderbilt.zoom.us/j/98486854904?pwd=elorRk0rbTAvTXBaMllIcXRBUEJWQT09
 
 ### Class recap, Zoom
+
 M W F 8:00pm CDT
+
 Meeting ID: 	939 6624 5140
+
 Passcode: 	369034
+
 https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
+
 
 
 ## Books/References (all are available online)
@@ -49,12 +58,17 @@ Class Slack: https://vandydatasciencems.slack.com/messages/ds5220_f20
 ### Instructor
 
 Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University. 
+
 Affiliated to Vanderbilt Data Science Institute.
+
 https://www.vanderbilt.edu/chemistry/faculty/yang.php
 
+
 Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute  
+
 Office hours: M W F immediately following class
 
+https://vanderbilt.zoom.us/j/97810995272?pwd=YzVsa3o3WjRBejFtVzVNVGNPWHUydz09
 
 
 ### TA's

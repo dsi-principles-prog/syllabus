@@ -17,7 +17,7 @@ https://vanderbilt.zoom.us/j/98486854904?pwd=elorRk0rbTAvTXBaMllIcXRBUEJWQT09
 
 ### Class recap, Zoom
 
-M W 8:00 – 9:00 pm CDT
+T Th 8:00 – 9:00 pm CDT
 
 Meeting ID: 	939 6624 5140
 

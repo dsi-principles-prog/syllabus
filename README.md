@@ -15,9 +15,9 @@ Passcode: 892538
 
 https://vanderbilt.zoom.us/j/98486854904?pwd=elorRk0rbTAvTXBaMllIcXRBUEJWQT09
 
-### Class recap, Zoom
+### Class recap (A recap for the class material and interactive sessions, designed primarily for international students who are not able to attend the live session, but any student is welcome!), Zoom
 
-T Th 8:00 – 9:00 pm CDT
+M W 8:00 – 9:00 pm CDT
 
 Meeting ID: 	939 6624 5140
 
@@ -25,9 +25,19 @@ Passcode: 	369034
 
 https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
 
-### Office hour, Zoom
+### Office hour (Students should feel free to post questions anytime on slack), Zoom
 
 F 8:00 – 9:00 am CDT
+
+Meeting ID: 	939 6624 5140
+
+Passcode: 	369034
+
+https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
+
+### TA meeting (for TA and instructors only)
+
+M 9:15 – 9:45 am CDT
 
 Meeting ID: 	939 6624 5140
 

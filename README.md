@@ -107,6 +107,19 @@ Contact via slack or email amanda.konet@vanderbilt.edu
 
 ## Course Outline
 
+### git/GitHub/GitHub Flow 
+August 24-28
+
+#### Fri, Aug 28
+Resources: 
+GH Flow Overview, https://githubflow.github.io/
+Understanding GH Flow, https://githubflow.github.io/
+Happy Git with R, git commands: https://happygitwithr.com/git-commands.html
+Recording: https://vanderbilt.zoom.us/rec/share/y8lxMbuvyG1JaJHruVvWBrEiLtjbaaa8hnAX_KYIzEuJ-zI1pj3bUUdsyKMyhRJ5?startTime=1598639548000
+Assignment: https://classroom.github.com/g/DCHjeGL5
+
+
+
 ### Module 1
 - Data science skills
 - Reproducible analytics workflow

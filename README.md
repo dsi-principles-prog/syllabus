@@ -110,6 +110,15 @@ Contact via slack or email amanda.konet@vanderbilt.edu
 ### git/GitHub/GitHub Flow 
 August 24-28
 
+#### Mon, Aug 24
+
+Recording: https://vanderbilt.zoom.us/rec/share/7JNSf-Co-UpIQ4nmyGTOR59-LIHsX6a81XNK8_IOmU9IPR_WVmQXcoPlAhLFg4Wv?startTime=1598293834000
+
+#### Wed, Aug 26
+
+Recording: https://vanderbilt.zoom.us/rec/share/vuhELL_q2VlOHK_q91PxBo8LNYLaT6a81CUaqftfyEYguOxzbabBXqvH0RVGRKvm?startTime=1598317810000
+
+
 #### Fri, Aug 28
 Resources: 
 

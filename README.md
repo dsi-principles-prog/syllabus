@@ -99,7 +99,7 @@ Contact via slack or email yuzhi.yao@vanderbilt.edu
 
 **Amanda Konet, M.S. Data Science Student** 
 
-Office hours: TBD
+Office hours: Tuesdays 10:30-11:30 am CDT
 
 Contact via slack or email amanda.konet@vanderbilt.edu
 

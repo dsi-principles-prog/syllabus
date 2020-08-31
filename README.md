@@ -134,12 +134,13 @@ Assignment: https://classroom.github.com/g/DCHjeGL5
 
 
 
-### Module 1
+### Module 1: Mon, Aug 31
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Module 2
+### Module 2: Mon, Aug 31 - Mon, Sep 6 
+- Introduction to the tidyverse
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)

@@ -145,6 +145,16 @@ Assignment: https://classroom.github.com/g/DCHjeGL5
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
+#### Mon, Aug 31
+
+Recording:  https://vanderbilt.zoom.us/rec/share/4s5NIrLR0VpOGdLM0G3WSo0EOILiT6a8gHBP_fZYnx3ri90qG__GzQklAufHmyfH
+
+Assignment: https://classroom.github.com/a/yUfbfong
+
+#### Wed, Sep 1
+
+Recording: https://vanderbilt.zoom.us/rec/share/jURJGO5fheFJuYrTBPotDYYRwbTTy7KZ0M4aaW8xrrvXkWUGRtHdYJSLCFjm4qQE.PMt3syf2hJBglx81
+
 ### Module 3
 - Relational data (https://r4ds.had.co.nz/relational-data.html)
 - Functions (https://r4ds.had.co.nz/functions.html)

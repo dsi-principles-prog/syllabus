@@ -151,9 +151,13 @@ Recording:  https://vanderbilt.zoom.us/rec/share/4s5NIrLR0VpOGdLM0G3WSo0EOILiT6a
 
 Assignment: https://classroom.github.com/a/yUfbfong
 
-#### Wed, Sep 1
+#### Wed, Sep 2
 
 Recording: https://vanderbilt.zoom.us/rec/share/jURJGO5fheFJuYrTBPotDYYRwbTTy7KZ0M4aaW8xrrvXkWUGRtHdYJSLCFjm4qQE.PMt3syf2hJBglx81
+
+#### Fri, Sep 4
+
+Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvFAgzhNbX5R3bgu_b5eyw8DwBqKF0bSNFo.o0Y81EiW2jLR2s6K?startTime=1599245357000
 
 ### Module 3
 - Relational data (https://r4ds.had.co.nz/relational-data.html)

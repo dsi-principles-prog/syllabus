@@ -134,12 +134,12 @@ Assignment: https://classroom.github.com/g/DCHjeGL5
 
 
 
-### Module 1: Mon, Aug 31
+### Mon, Aug 31
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Module 2: Mon, Aug 31 - Mon, Sep 6 
+### Mon, Aug 31 - Mon, Sep 6 
 - Introduction to the tidyverse
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
@@ -159,17 +159,26 @@ Recording: https://vanderbilt.zoom.us/rec/share/jURJGO5fheFJuYrTBPotDYYRwbTTy7KZ
 
 Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvFAgzhNbX5R3bgu_b5eyw8DwBqKF0bSNFo.o0Y81EiW2jLR2s6K?startTime=1599245357000
 
-### Module 3
-- Relational data (https://r4ds.had.co.nz/relational-data.html)
-- Functions (https://r4ds.had.co.nz/functions.html)
+### Mon, Sep 7 - Fri, Sep 11
 
-### Module 4
+- Pipeline tests 
+-- assertr (https://ropensci.org/blog/2017/04/11/assertr/, https://github.com/ropensci/assertr, https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html)
+-- additional predictes (see is_* predicates in assertive, https://cran.r-project.org/web/packages/assertive/assertive.pdf, https://bitbucket.org/richierocks/assertive.data/src/master/)
+
+- Relational data (https://r4ds.had.co.nz/relational-data.html)
+
+### Mon, Sep 14
+- Functions (https://r4ds.had.co.nz/functions.html)
+- Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
+- Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
+
+### Tue, Sep 16
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
 ### Module 5
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
-- Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
+
 
 ### Module 6
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)

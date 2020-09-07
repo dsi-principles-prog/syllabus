@@ -167,6 +167,10 @@ Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvF
 
 - Relational data (https://r4ds.had.co.nz/relational-data.html)
 
+#### Mon, Sep 7
+
+https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
+
 ### Mon, Sep 14
 - Functions (https://r4ds.had.co.nz/functions.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)

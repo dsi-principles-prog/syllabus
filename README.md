@@ -186,12 +186,9 @@ https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qa
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)
 - Strings (https://r4ds.had.co.nz/strings.html)
 - Regular expressions (https://r4ds.had.co.nz/strings.html, https://github.com/VerbalExpressions/RVerbalExpressions)
-
-### Mon, Oct 5 - Fri, Oct 9
-- Regular expressions (https://github.com/VerbalExpressions/RVerbalExpressions)
 - Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
-### Mon, Oct 12 - Fri, Oct 16
+### Mon, Oct 5 - Fri, Oct 9
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
 - ACCRE Slurm ([Unix](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2017/10/26205557/NewIntroToUnix.pdf), [Introduction to the Cluster](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2018/12/13173622/intro_to_cluster_2018.pdf), [SLURM Job Scheduler](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2019/03/28204601/intro_to_slurm.pdf), [ACCRE GitHub Demo Repositories](https://github.com/accre))

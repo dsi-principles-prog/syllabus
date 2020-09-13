@@ -6,17 +6,44 @@ Course page for DSI Principles of Programming course
 
 ### Live, in-person
 M W F 1:50-2:40pm CDT 
+
 Sony Building 2001A
+
 Meeting ID: 984 8685 4904
+
 Passcode: 892538
+
 https://vanderbilt.zoom.us/j/98486854904?pwd=elorRk0rbTAvTXBaMllIcXRBUEJWQT09
 
-### Class recap, Zoom
-M W F 8:00pm CDT
+### Class recap (A recap for the class material and interactive sessions, designed primarily for international students who are not able to attend the live session, but any student is welcome!), Zoom
+
+M W 8:00 – 9:00 pm CDT
+
 Meeting ID: 	939 6624 5140
+
 Passcode: 	369034
+
 https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
 
+### Office hour (Students should feel free to post questions anytime on slack), Zoom
+
+F 8:00 – 9:00 am CDT
+
+Meeting ID: 	939 6624 5140
+
+Passcode: 	369034
+
+https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
+
+### TA meeting (for TA and instructors only)
+
+M 9:15 – 9:45 am CDT
+
+Meeting ID: 	939 6624 5140
+
+Passcode: 	369034
+
+https://vanderbilt.zoom.us/j/93966245140?pwd=TGhlaTVqa0x1Mmh1cURMallvaVRyZz09
 
 ## Books/References (all are available online)
 
@@ -43,47 +70,119 @@ You will have the opportunity to drop two homeworks/short assignments. To receiv
 
 ## Contact Information
 
-Class Slack: 
+Class Slack: https://vandydatasciencems.slack.com/messages/ds5220_f20
 
 
 ### Instructor
 
-Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University. 
+**Zhongyue (John) Yang, Assistant Professor of Chemistry, Vanderbilt University.**
+
 Affiliated to Vanderbilt Data Science Institute.
+
 https://www.vanderbilt.edu/chemistry/faculty/yang.php
 
-Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute  
+
+**Jesse Spencer-Smith, Chief Data Scientist, Vanderbilt Data Science Institute** 
+
 Office hours: M W F immediately following class
-Office hours/special sessions: 
+
+https://vanderbilt.zoom.us/j/97810995272?pwd=YzVsa3o3WjRBejFtVzVNVGNPWHUydz09
+
 
 ### TA's
 
+**Yuzhi (Nino) Yao, M.S. Data Science Student, Vanderbilt University.**
 
+Office hours: TBD
 
+Contact via slack or email yuzhi.yao@vanderbilt.edu
+
+**Amanda Konet, M.S. Data Science Student** 
+
+Office hours: Tuesdays 10:30-11:30 am CDT
+
+Contact via slack or email amanda.konet@vanderbilt.edu
+
+**Yilin Yang, M.S. Data Science** 
 
 ## Course Outline
 
-### Module 1
+### git/GitHub/GitHub Flow 
+August 24-28
+
+#### Mon, Aug 24
+
+Recording: https://vanderbilt.zoom.us/rec/share/7JNSf-Co-UpIQ4nmyGTOR59-LIHsX6a81XNK8_IOmU9IPR_WVmQXcoPlAhLFg4Wv?startTime=1598293834000
+
+#### Wed, Aug 26
+
+Recording: https://vanderbilt.zoom.us/rec/share/vuhELL_q2VlOHK_q91PxBo8LNYLaT6a81CUaqftfyEYguOxzbabBXqvH0RVGRKvm?startTime=1598317810000
+
+
+#### Fri, Aug 28
+Resources: 
+
+GH Flow Overview, https://githubflow.github.io/
+
+Understanding GH Flow, https://githubflow.github.io/
+
+Happy Git with R, git commands: https://happygitwithr.com/git-commands.html
+
+Recording: https://vanderbilt.zoom.us/rec/share/y8lxMbuvyG1JaJHruVvWBrEiLtjbaaa8hnAX_KYIzEuJ-zI1pj3bUUdsyKMyhRJ5?startTime=1598639548000
+
+Assignment: https://classroom.github.com/g/DCHjeGL5
+
+
+
+### Mon, Aug 31
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Module 2
+### Mon, Aug 31 - Mon, Sep 6 
+- Introduction to the tidyverse
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
-### Module 3
-- Relational data (https://r4ds.had.co.nz/relational-data.html)
-- Functions (https://r4ds.had.co.nz/functions.html)
+#### Mon, Aug 31
 
-### Module 4
+Recording:  https://vanderbilt.zoom.us/rec/share/4s5NIrLR0VpOGdLM0G3WSo0EOILiT6a8gHBP_fZYnx3ri90qG__GzQklAufHmyfH
+
+Assignment: https://classroom.github.com/a/yUfbfong
+
+#### Wed, Sep 2
+
+Recording: https://vanderbilt.zoom.us/rec/share/jURJGO5fheFJuYrTBPotDYYRwbTTy7KZ0M4aaW8xrrvXkWUGRtHdYJSLCFjm4qQE.PMt3syf2hJBglx81
+
+#### Fri, Sep 4
+
+Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvFAgzhNbX5R3bgu_b5eyw8DwBqKF0bSNFo.o0Y81EiW2jLR2s6K?startTime=1599245357000
+
+### Mon, Sep 7 - Fri, Sep 11
+
+- Pipeline tests 
+-- assertr (https://ropensci.org/blog/2017/04/11/assertr/, https://github.com/ropensci/assertr, https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html)
+-- additional predictes (see is_* predicates in assertive, https://cran.r-project.org/web/packages/assertive/assertive.pdf, https://bitbucket.org/richierocks/assertive.data/src/master/)
+
+- Relational data (https://r4ds.had.co.nz/relational-data.html)
+
+#### Mon, Sep 7
+
+https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
+
+### Mon, Sep 14
+- Functions (https://r4ds.had.co.nz/functions.html)
+- Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
+- Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
+
+### Tue, Sep 16
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
 ### Module 5
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
-- Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
+
 
 ### Module 6
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)

@@ -107,8 +107,8 @@ Contact via slack or email amanda.konet@vanderbilt.edu
 
 ## Course Outline
 
-### git/GitHub/GitHub Flow 
-August 24-28
+
+### Mon, Aug 24 - Mon, Aug 31 (Module 1: git/GitHub/GitHub Flow)
 
 #### Mon, Aug 24
 
@@ -132,14 +132,12 @@ Recording: https://vanderbilt.zoom.us/rec/share/y8lxMbuvyG1JaJHruVvWBrEiLtjbaaa8
 
 Assignment: https://classroom.github.com/g/DCHjeGL5
 
-
-
 ### Mon, Aug 31
 - Data science skills
 - Reproducible analytics workflow
 - Structuring projects
 
-### Mon, Aug 31 - Mon, Sep 6 
+### Mon, Aug 31 - Mon, Sep 6 (Module 2: tidyverse_intro/grammar/tidy data/pipeline test_1)
 - Introduction to the tidyverse
 - Grammar of data manipulation (https://r4ds.had.co.nz/transform.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
@@ -159,8 +157,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/jURJGO5fheFJuYrTBPotDYYRwbTTy7KZ
 
 Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvFAgzhNbX5R3bgu_b5eyw8DwBqKF0bSNFo.o0Y81EiW2jLR2s6K?startTime=1599245357000
 
-### Mon, Sep 7 - Fri, Sep 11
-
+### Mon, Sep 7 - Fri, Sep 11 (Module 3: pipeline test_2/assertr/relational data)
 - Pipeline tests 
 -- assertr (https://ropensci.org/blog/2017/04/11/assertr/, https://github.com/ropensci/assertr, https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html)
 -- additional predictes (see is_* predicates in assertive, https://cran.r-project.org/web/packages/assertive/assertive.pdf, https://bitbucket.org/richierocks/assertive.data/src/master/)

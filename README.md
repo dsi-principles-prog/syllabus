@@ -168,6 +168,14 @@ Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvF
 
 https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
 
+#### Wed, Sep 9
+
+https://vanderbilt.zoom.us/rec/share/-iwLsQyuc7tbffHm-FWgQNg7O3tDXRm8kS4KkGoyyZfKSCUrNOFdKJFUoYwggI_1.Aqb4lGeswo-_B8n5?startTime=1599677484000
+
+#### Fri, Sep 11
+
+https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRthLUynbNiN2I2JjQGHVsj9f.OVnbDY48qgTWQ78W?startTime=1599848255000
+
 ### Mon, Sep 14 - Fri, Sep 18
 - Functions (https://r4ds.had.co.nz/functions.html)
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)

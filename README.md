@@ -173,7 +173,13 @@ https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qa
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
-#### Mon, Sep 21 - Fri, Sep 25 
+#### Mon, Sep 14
+
+#### Wed, Sep 16
+
+#### Fri, Sep 18
+
+### Mon, Sep 21 - Fri, Sep 25 
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)

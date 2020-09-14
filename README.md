@@ -177,7 +177,7 @@ https://vanderbilt.zoom.us/rec/share/-iwLsQyuc7tbffHm-FWgQNg7O3tDXRm8kS4KkGoyyZf
 https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRthLUynbNiN2I2JjQGHVsj9f.OVnbDY48qgTWQ78W?startTime=1599848255000
 
 ### Mon, Sep 14 - Fri, Sep 18
-- Functions (https://r4ds.had.co.nz/functions.html)
+- Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
